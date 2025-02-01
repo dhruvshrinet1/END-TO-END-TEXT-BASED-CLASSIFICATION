@@ -1,0 +1,6 @@
+README.md
+setup.py
+yt_comment_classification.egg-info/PKG-INFO
+yt_comment_classification.egg-info/SOURCES.txt
+yt_comment_classification.egg-info/dependency_links.txt
+yt_comment_classification.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+[ 2025-02-01 22:08:36,388 ] root - ERROR - Error occurred during pipeline execution: 'TrainPipeline' object has no attribute 'start_data_ingestion'

@@ -1,0 +1,4 @@
+[ 2025-02-01 22:09:19,253 ] root - INFO - Data ingestion started.
+[ 2025-02-01 22:09:19,253 ] root - INFO - Data ingestion started.
+[ 2025-02-01 22:09:19,253 ] root - ERROR - Error occurred during data ingestion: Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/data_ingestion.py] line number [25] error message ['DataIngestionConfig' object has no attribute 'train_data_path']
+[ 2025-02-01 22:09:19,253 ] root - INFO - Data ingestion artifacts: None
