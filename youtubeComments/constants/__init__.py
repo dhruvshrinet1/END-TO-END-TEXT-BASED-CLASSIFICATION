@@ -10,3 +10,5 @@ LABEL = "LABEL"
 
 
 DATA_INGESTION_ARTIFACTS_DIR = "DataIngestionArtifacts"
+DATA_TRANSFORMATION_ARTIFACTS_DIR = 'DataTransformationArtifacts'
+TRANSFORMED_FILE_NAME = "final.csv"

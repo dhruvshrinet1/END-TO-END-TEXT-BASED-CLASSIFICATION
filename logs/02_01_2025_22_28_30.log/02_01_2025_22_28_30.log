@@ -1,4 +1,0 @@
-[ 2025-02-01 22:28:31,152 ] root - INFO - Data ingestion started.
-[ 2025-02-01 22:28:31,152 ] root - INFO - Data ingestion started.
-[ 2025-02-01 22:28:31,153 ] root - ERROR - Error occurred during data ingestion: Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/data_ingestion.py] line number [26] error message [[Errno 2] No such file or directory: 'notebook\\data\\YoutubeCommentsDataSet.csv']
-[ 2025-02-01 22:28:31,153 ] root - INFO - Data ingestion artifacts: None

@@ -1,5 +1,0 @@
-[ 2025-02-01 22:34:01,819 ] root - INFO - Data ingestion started.
-[ 2025-02-01 22:34:01,819 ] root - INFO - Entered the data ingestion method or component
-[ 2025-02-01 22:34:01,848 ] root - INFO - Read the dataset as dataframe
-[ 2025-02-01 22:34:01,848 ] root - ERROR - Error occurred during data ingestion: Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/data_ingestion.py] line number [33] error message ['DataIngestionConfig' object has no attribute 'raw_data_path']
-[ 2025-02-01 22:34:01,848 ] root - INFO - Data ingestion artifacts: None

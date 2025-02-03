@@ -1,2 +1,0 @@
-[ 2025-02-01 22:33:10,112 ] root - INFO - Data ingestion started.
-[ 2025-02-01 22:33:10,112 ] root - ERROR - Error occurred during pipeline execution: DataIngestion.__init__() got an unexpected keyword argument 'config'
