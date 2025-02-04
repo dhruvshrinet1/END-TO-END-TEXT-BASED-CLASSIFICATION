@@ -1,0 +1,30 @@
+[ 2025-02-04 18:28:54,116 ] matplotlib - DEBUG - matplotlib data path: /opt/anaconda3/envs/yt/lib/python3.11/site-packages/matplotlib/mpl-data
+[ 2025-02-04 18:28:54,141 ] matplotlib - DEBUG - CONFIGDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-04 18:28:54,142 ] matplotlib - DEBUG - interactive is False
+[ 2025-02-04 18:28:54,142 ] matplotlib - DEBUG - platform is darwin
+[ 2025-02-04 18:28:54,168 ] matplotlib - DEBUG - CACHEDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-04 18:28:54,170 ] matplotlib.font_manager - DEBUG - Using fontManager instance from /Users/dhruvshrinet/.matplotlib/fontlist-v390.json
+[ 2025-02-04 18:28:56,071 ] tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[ 2025-02-04 18:28:56,301 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-04 18:28:56,301 ] h5py._conv - DEBUG - Creating converter from 5 to 7
+[ 2025-02-04 18:28:56,301 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-04 18:28:56,301 ] h5py._conv - DEBUG - Creating converter from 5 to 7
+[ 2025-02-04 18:28:56,927 ] root - INFO - Data ingestion started.
+[ 2025-02-04 18:28:56,927 ] root - INFO - Entered the data ingestion method or component
+[ 2025-02-04 18:28:56,955 ] root - INFO - Read the dataset as dataframe
+[ 2025-02-04 18:28:56,955 ] root - INFO - Train test split initiated
+[ 2025-02-04 18:28:56,989 ] root - INFO - Inmgestion of the data iss completed
+[ 2025-02-04 18:28:56,990 ] root - INFO - Data ingestion completed.
+[ 2025-02-04 18:28:56,990 ] root - INFO - Data ingestion artifacts: ('artifacts/train.csv', 'artifacts/test.csv')
+[ 2025-02-04 18:28:56,990 ] root - INFO - Entered the start_data_transformation method of TrainPipeline class
+[ 2025-02-04 18:28:56,990 ] root - INFO - Data transformation started.
+[ 2025-02-04 18:28:57,987 ] root - INFO - Data preprocessing completed.
+[ 2025-02-04 18:28:58,008 ] root - INFO - Data transformation completed successfully.
+[ 2025-02-04 18:28:58,009 ] root - INFO - Exited the start_data_transformation method of TrainPipeline class
+[ 2025-02-04 18:28:58,009 ] root - INFO - Entered the start_model_trainer method of TrainPipeline class
+[ 2025-02-04 18:28:58,009 ] root - INFO - Entered initiate_model_trainer method of ModelTrainer class
+[ 2025-02-04 18:28:58,009 ] root - INFO - Entered the initiate_model_trainer function 
+[ 2025-02-04 18:28:58,070 ] root - INFO - Xtrain size is : (14726,)
+[ 2025-02-04 18:28:58,070 ] root - INFO - Xtest size is : (3682,)
+[ 2025-02-04 18:28:58,071 ] root - INFO - Applying tokenization on the data
+[ 2025-02-04 18:28:58,071 ] root - ERROR - Error occurred during pipeline execution: Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/pipeline/train_pipeline.py] line number [53] error message [Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/model_trainer.py] line number [88] error message [Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/model_trainer.py] line number [54] error message ['float' object has no attribute 'lower']]]

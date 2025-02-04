@@ -1,0 +1,11 @@
+[ 2025-02-03 15:24:24,297 ] matplotlib - DEBUG - matplotlib data path: /opt/anaconda3/envs/yt/lib/python3.11/site-packages/matplotlib/mpl-data
+[ 2025-02-03 15:24:24,316 ] matplotlib - DEBUG - CONFIGDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-03 15:24:24,317 ] matplotlib - DEBUG - interactive is False
+[ 2025-02-03 15:24:24,317 ] matplotlib - DEBUG - platform is darwin
+[ 2025-02-03 15:24:24,339 ] matplotlib - DEBUG - CACHEDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-03 15:24:24,340 ] matplotlib.font_manager - DEBUG - Using fontManager instance from /Users/dhruvshrinet/.matplotlib/fontlist-v390.json
+[ 2025-02-03 15:24:25,679 ] tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[ 2025-02-03 15:24:25,861 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-03 15:24:25,861 ] h5py._conv - DEBUG - Creating converter from 5 to 7
+[ 2025-02-03 15:24:25,861 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-03 15:24:25,861 ] h5py._conv - DEBUG - Creating converter from 5 to 7

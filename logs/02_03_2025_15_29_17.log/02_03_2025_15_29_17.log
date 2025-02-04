@@ -1,0 +1,28 @@
+[ 2025-02-03 15:29:18,172 ] matplotlib - DEBUG - matplotlib data path: /opt/anaconda3/envs/yt/lib/python3.11/site-packages/matplotlib/mpl-data
+[ 2025-02-03 15:29:18,192 ] matplotlib - DEBUG - CONFIGDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-03 15:29:18,192 ] matplotlib - DEBUG - interactive is False
+[ 2025-02-03 15:29:18,192 ] matplotlib - DEBUG - platform is darwin
+[ 2025-02-03 15:29:18,215 ] matplotlib - DEBUG - CACHEDIR=/Users/dhruvshrinet/.matplotlib
+[ 2025-02-03 15:29:18,217 ] matplotlib.font_manager - DEBUG - Using fontManager instance from /Users/dhruvshrinet/.matplotlib/fontlist-v390.json
+[ 2025-02-03 15:29:19,586 ] tensorflow - DEBUG - Falling back to TensorFlow client; we recommended you install the Cloud TPU client directly with pip install cloud-tpu-client.
+[ 2025-02-03 15:29:19,769 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-03 15:29:19,769 ] h5py._conv - DEBUG - Creating converter from 5 to 7
+[ 2025-02-03 15:29:19,769 ] h5py._conv - DEBUG - Creating converter from 7 to 5
+[ 2025-02-03 15:29:19,769 ] h5py._conv - DEBUG - Creating converter from 5 to 7
+[ 2025-02-03 15:29:20,301 ] root - INFO - Data ingestion started.
+[ 2025-02-03 15:29:20,301 ] root - INFO - Entered the data ingestion method or component
+[ 2025-02-03 15:29:20,327 ] root - INFO - Read the dataset as dataframe
+[ 2025-02-03 15:29:20,327 ] root - INFO - Train test split initiated
+[ 2025-02-03 15:29:20,357 ] root - INFO - Inmgestion of the data iss completed
+[ 2025-02-03 15:29:20,357 ] root - INFO - Data ingestion completed.
+[ 2025-02-03 15:29:20,357 ] root - INFO - Data ingestion artifacts: ('artifacts/train.csv', 'artifacts/test.csv')
+[ 2025-02-03 15:29:20,357 ] root - INFO - Entered the start_data_transformation method of TrainPipeline class
+[ 2025-02-03 15:29:20,357 ] root - INFO - Data transformation started.
+[ 2025-02-03 15:29:21,334 ] root - INFO - Data preprocessing completed.
+[ 2025-02-03 15:29:21,356 ] root - INFO - Data transformation completed successfully.
+[ 2025-02-03 15:29:21,357 ] root - INFO - Exited the start_data_transformation method of TrainPipeline class
+[ 2025-02-03 15:29:21,357 ] root - INFO - Entered the start_model_trainer method of TrainPipeline class
+[ 2025-02-03 15:29:21,357 ] root - INFO - Entered initiate_model_trainer method of ModelTrainer class
+[ 2025-02-03 15:29:21,357 ] root - INFO - Entered the initiate_model_trainer function 
+[ 2025-02-03 15:29:21,357 ] root - ERROR - Error in splitting data: [Errno 21] Is a directory: '/Users/dhruvshrinet/Desktop/NLP/artifacts/02_03_2025_15_29_20/DataTransformationArtifacts'
+[ 2025-02-03 15:29:21,357 ] root - ERROR - Error occurred during pipeline execution: Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/pipeline/train_pipeline.py] line number [53] error message [Error occurred python script name [/Users/dhruvshrinet/Desktop/NLP/youtubeComments/components/model_trainer.py] line number [77] error message [CustomException.__init__() missing 1 required positional argument: 'error_detail']]
